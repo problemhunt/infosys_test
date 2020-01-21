@@ -1,6 +1,6 @@
-Android Proficiency Exercise
-Specification
-MVP  architectural pattern.
+Android Proficiency Exercise<br />
+Specification<br />
+MVP  architectural pattern.<br />
 This App Ingests a json feed from https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json 
  The feed contains a title and a list of rows. 
  Third party apis such as Retrofit, Gson and Picasso are used
