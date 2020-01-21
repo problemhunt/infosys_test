@@ -2,7 +2,7 @@
 
 <h2>Specification<br /></h2>
 
-<h5>1.</h5> MVP  architectural pattern.<br />
+<h5>1. MVP  architectural pattern.<br /></h5>
 2.This App Ingests a json feed from https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json <br />
 3.The feed contains a title and a list of rows. <br />
 4.Third party apis such as Retrofit, Gson and Picasso are used<br />
